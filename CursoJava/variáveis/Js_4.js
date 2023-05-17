@@ -1,5 +1,8 @@
-var teste=1
+var numero = 5 
 
-teste = "Júlia"
+console.log(numero);
+console.log(typeof numero)
 
-console.log(teste);
+var float = 5.21;
+
+console.log(float)
