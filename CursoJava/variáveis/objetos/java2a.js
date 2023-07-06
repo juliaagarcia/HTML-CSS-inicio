@@ -6,4 +6,8 @@ var obj = {
 
 console.log(obj);
 
-console.log("meu nome é"+ obj.nome)
+console.log(typeof obj);
+
+console.log("meu nome é"+ obj.nome);
+
+obj.graducao= true;
